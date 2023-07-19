@@ -3,7 +3,7 @@
 **Form Validation**
 Link: https://form-validation-031.netlify.app/
 
-**Form Validation**
+**Light-Dark Theme**
 Link: https://theme-change-031.netlify.app/
 
 Advanced React Course all Lab Assessments
